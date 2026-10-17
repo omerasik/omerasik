@@ -1,23 +1,2 @@
-﻿# Hello, I'm Omer Asik
-
-## About Me
-I'm a passionate **Full Stack Developer** with a strong interest in **Blockchain technology**. I'm a 22-year-old student at Artevelde Hogeschool, always eager to learn and explore new challenges in software development. I strive to build robust and scalable web applications that make a real difference.
-
-## What I Do
-- **Backend Development:** Crafting efficient and reliable server-side solutions.
-- **Blockchain Exploration:** Experimenting with blockchain to drive innovation in web applications.
-- **Continuous Learning:** Keeping up with the latest trends and best practices in technology.
-
-
-## Skills & Technologies
-- **Programming Languages:** Java, Python, JavaScript (feel free to modify as needed)
-- **Frameworks & Tools:** Node.js, Express, Docker, etc.
-- **Blockchain:** Familiarity with smart contracts and decentralized applications (DApps)
-- **Other:** Database management, API design, and more
-
-## Get In Touch
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/omerasik)
-- Check out my GitHub repositories to see more of my work
-
-Thank you for stopping by my profile! I'm always open to collaboration and new opportunities.
-
+Connect with me on [LinkedIn](https://www.linkedin.com/in/omerasik)
+Check out my GitHub repositories to see more of my work
